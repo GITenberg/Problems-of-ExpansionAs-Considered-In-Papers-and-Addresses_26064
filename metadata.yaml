@@ -1,0 +1,27 @@
+_repo: Problems-of-ExpansionAs-Considered-In-Papers-and-Addresses_26064
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Whitelaw
+    birthdate: 1837
+    deathdate: 1912
+    gutenberg_agent_id: '31773'
+    url: http://www.gutenberg.org/2009/agents/31773
+description: ''
+gutenberg_issued: '2008-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26064'
+  lccn: '00003553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JV'
+- !lcsh 'United States -- Colonial question'
+title: "Problems of Expansion\r\nAs Considered in Papers and Addresses"
+url: http://www.gutenberg.org/ebooks/26064
